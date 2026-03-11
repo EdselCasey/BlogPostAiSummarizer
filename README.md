@@ -16,7 +16,7 @@ Paste any blog article URL and receive a concise AI-generated summary.
 
 ## Tech Stack
 
-- **Frontend:** React
+- **BuildTool:** Vite
 - **Styling:** TailwindCSS
 - **AI Integration:** AI API for summarization
 - **Networking:** Fetch API / Async JavaScript
